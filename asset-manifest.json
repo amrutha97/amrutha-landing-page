@@ -1,13 +1,13 @@
 {
-  "files": {
-    "main.css": "/amrutha-landing-page/static/css/main.4152c3d3.css",
-    "main.js": "/amrutha-landing-page/static/js/main.133c0e33.js",
-    "index.html": "/amrutha-landing-page/index.html",
-    "main.4152c3d3.css.map": "/amrutha-landing-page/static/css/main.4152c3d3.css.map",
-    "main.133c0e33.js.map": "/amrutha-landing-page/static/js/main.133c0e33.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.4152c3d3.css",
-    "static/js/main.133c0e33.js"
-  ]
+  "main.css": "/amrutha-landing-page/static/css/main.0b1a2844.chunk.css",
+  "main.js": "/amrutha-landing-page/static/js/main.764eaf34.chunk.js",
+  "main.js.map": "/amrutha-landing-page/static/js/main.764eaf34.chunk.js.map",
+  "static/js/1.6eb6405c.chunk.js": "/amrutha-landing-page/static/js/1.6eb6405c.chunk.js",
+  "static/js/1.6eb6405c.chunk.js.map": "/amrutha-landing-page/static/js/1.6eb6405c.chunk.js.map",
+  "runtime~main.js": "/amrutha-landing-page/static/js/runtime~main.5ea789fe.js",
+  "runtime~main.js.map": "/amrutha-landing-page/static/js/runtime~main.5ea789fe.js.map",
+  "static/css/main.0b1a2844.chunk.css.map": "/amrutha-landing-page/static/css/main.0b1a2844.chunk.css.map",
+  "index.html": "/amrutha-landing-page/index.html",
+  "precache-manifest.a83381b9ce26b51527fd2cd64a30076a.js": "/amrutha-landing-page/precache-manifest.a83381b9ce26b51527fd2cd64a30076a.js",
+  "service-worker.js": "/amrutha-landing-page/service-worker.js"
 }
