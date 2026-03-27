@@ -9,9 +9,6 @@
       .mark { fill: #000; }
     }
   </style>
-  <rect class="bg" width="32" height="32" rx="7"/>
-  <g class="mark">
-    <path fill-rule="evenodd" d="M15 10.5a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13zm0 3.25a3.25 3.25 0 1 1 0 6.5 3.25 3.25 0 0 1 0-6.5z"/>
-    <rect x="19.5" y="10.5" width="3" height="13" rx="1.5"/>
-  </g>
+  <rect class="bg" width="32" height="32" rx="6"/>
+  <path class="mark" d="M16 6L6 26h4.5l2.2-4h6.6l2.2 4H26L16 6zm0 7.5L19.2 20h-6.4L16 13.5z"/>
 </svg>

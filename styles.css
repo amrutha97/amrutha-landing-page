@@ -121,6 +121,13 @@ h1 {
   line-height: 1.2;
   color: hsl(var(--foreground));
   margin-bottom: 0.5rem;
+  filter: blur(8px);
+  transition: filter 400ms cubic-bezier(0.33, 1, 0.68, 1);
+  cursor: default;
+}
+
+h1:hover {
+  filter: blur(4px);
 }
 
 .title {
